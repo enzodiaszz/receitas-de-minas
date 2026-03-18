@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(67, 68, 68);
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: 25px auto;
+    border-radius: 26px;
+}
+
+button {
+    color: rgb(223, 116, 116);
+    display: block;
+    margin: 0 auto;
+}
+
+header {
+    color: rgb(75, 80, 80);
+    border: 4px;
+    background-color: rgb(145, 183, 216);
+    width: 360px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.main_content {
+    background-color: aqua;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 40px;
+    
+
+}
+
+#Ingredientes {
+    background-color: rgb(145, 183, 216);
+}
+
+#Ingredientes > h3 {
+    text-align: center;
+}
